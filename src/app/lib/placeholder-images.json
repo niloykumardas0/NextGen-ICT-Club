@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "High-tech student interaction",
+      "imageUrl": "https://picsum.photos/seed/nxg-hero-v3/1200/1000",
+      "imageHint": "tech student"
+    },
+    {
+      "id": "olympiad-cover",
+      "description": "National Olympiad Stage",
+      "imageUrl": "https://picsum.photos/seed/nxg-stage/1200/800",
+      "imageHint": "tech competition"
+    },
+    {
+      "id": "mission-image",
+      "description": "Team of innovators",
+      "imageUrl": "https://picsum.photos/seed/nxg-mission-v2/800/1000",
+      "imageHint": "tech team"
+    }
+  ]
+}
